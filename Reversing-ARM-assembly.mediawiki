@@ -1,0 +1,8 @@
+==Introduction==
+The ARM assembly language has many different things with the intel assembly language. This doucment will help you understand some ARM disassembly patterns which are different from intel.
+
+==Differences with intel==
+===No "Call" statement?===
+blx
+===No "Ret" statement?===
+
